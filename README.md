@@ -33,7 +33,7 @@ Explore por Categoria: Descubra as melhores oportunidades em setores como Logís
 
 - Patrimônio Total (R$): Avalie a solidez e o portfólio do fundo.
 <center>
- <img src= "Fundos_Dash_page-0001_.jpg" width="700" height="375" />
+ <img src= "Fundos_Dash_page-0001_.jpg" width="890" height="475" />
 </center>
 
 
@@ -52,4 +52,5 @@ Explore por Categoria: Descubra as melhores oportunidades em setores como Logís
 Web Scraping foi usado para extrair dados das principais plataformas de investimentos do mercado.
 
 ## Autor
+
 ### Vinicius Mantovam

@@ -47,5 +47,5 @@ Explore por Categoria: Descubra as melhores oportunidades em setores como Logís
 # ⚙️ Tecnologia de Coleta de Dados
 Web Scraping foi usado para extrair dados das principais plataformas de investimentos do mercado.
 
-# Autor
-Vinicius Mantovam
+## Autor
+### Vinicius Mantovam

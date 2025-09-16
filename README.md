@@ -32,6 +32,9 @@ Explore por Categoria: Descubra as melhores oportunidades em setores como Logís
 
 
 - Patrimônio Total (R$): Avalie a solidez e o portfólio do fundo.
+<center>
+ <img src= "Fundos_Dash_page-0001.jpg" width="700" height="375" />
+</center>
 
 # 💡 Transforme Dados em Insights para Composição de Carteira de Investimentos
 ### A ferramenta foi projetada para gerar insights acionáveis. Com ela, você será capaz de:

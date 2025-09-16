@@ -28,13 +28,14 @@ Explore por Categoria: Descubra as melhores oportunidades em setores como Logís
 - Dividendo por Cota (R$): Acompanhe o valor exato distribuído aos cotistas.
 
 
-- Preço da Cota (R$): Monitore a cotação atual do ativo.
+- Preço da Cota (R$): Monitore a cotação atual do ativo.  
 
 
 - Patrimônio Total (R$): Avalie a solidez e o portfólio do fundo.
 <center>
- <img src= "Fundos_Dash_page-0001.jpg" width="700" height="375" />
+ <img src= "Fundos_Dash_page-0001_.jpg" width="700" height="375" />
 </center>
+
 
 # 💡 Transforme Dados em Insights para Composição de Carteira de Investimentos
 ### A ferramenta foi projetada para gerar insights acionáveis. Com ela, você será capaz de:
